@@ -67,4 +67,4 @@
 This project is developed for MVP/Presentation purposes. All rights reserved.
 
 ---
-*Created with ❤️ for GuruVani by Antigravity.*
+*Created with ❤️ for GuruVani by PJ.*
