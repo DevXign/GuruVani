@@ -13,6 +13,16 @@
 - **📱 Mobile-First Design**: Premium UI/UX optimized for high-end mobile experiences using modern typography and glassmorphism.
 - **🖥️ Admin & Mentor Dashboards**: Comprehensive management consoles for platform oversight and session management.
 
+## 📸 Presentation Preview
+
+| Splash Screen | Login Flow | Mentor List |
+| :---: | :---: | :---: |
+| ![Splash](screenshots/splash.png) | ![Login](screenshots/login.png) | ![Mentor List](screenshots/mentor_list.png) |
+
+| Mentor Profile | Student Dashboard |
+| :---: | :---: |
+| ![Mentor Profile](screenshots/mentor_profile.png) | ![Profile](screenshots/profile.png) |
+
 ## 🛠️ Tech Stack
 
 - **Frontend**: React.js with Vite
@@ -46,12 +56,6 @@
    npm run dev
    ```
 
-## 📸 Presentation Preview
-
-| Splash Screen | Login | Mentor List |
-| :---: | :---: | :---: |
-| ![Splash](public/GuruvaniLogo(white).PNG) | ![Login](public/GuruvaniLogo(black).PNG) | ![Logo](public/GuruvaniLogo(black).PNG) |
-
 ## 🌟 Demo Credentials (MVP Only)
 
 - **Mobile Number**: Any 10-digit number
@@ -63,4 +67,4 @@
 This project is developed for MVP/Presentation purposes. All rights reserved.
 
 ---
-*Created with ❤️ for GuruVani.*
+*Created with ❤️ for GuruVani by Antigravity.*
