@@ -6,7 +6,6 @@
 
 ## ✨ Features
 
-- **🇮🇳 Full Indian Identity**: Localized pricing specifically in Indian Rupees (₹) and a curated aesthetic tailored for Indian users.
 - **🛡️ Elite Mentor Selection**: A rigorous onboarding process requiring a minimum of 15 years of industry experience.
 - **📄 Secure Document Verification**: Functional document upload flow for Identity and Professional proof.
 - **⚡ Real-time Persistence**: Dynamic session booking and admin approval flows that work instantly (powered by persistent local state).
